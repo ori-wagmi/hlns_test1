@@ -12,6 +12,8 @@ NameService.sol is an ERC721 with the following functions:
 
 It has been deployed to: `0xaCFf80214fbfD2291B900908dB04906c752e2aFD`
 
+https://hyperliquid.gitbook.io/hyperliquid-docs/for-developers/evm
+
 ## Setup
 create a `.env` file and add a `PRIVKEY` variable, used for deploying the contracts.
 
